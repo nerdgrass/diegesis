@@ -1,6 +1,6 @@
-siteTitle = "Blog by John Doe"
-siteDescr = "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-siteAuthor = "John Doe"
+siteTitle = "Diegesis - Readable versions of Greek Histories"
+siteDescr = "Diegesis is a library of ancient Grecian classis formatted to be legible and easy to read"
+siteAuthor = "Alex Boerstler"
 
 siteTelegramUrl = "#"
 siteTwitterUrl = "#"
